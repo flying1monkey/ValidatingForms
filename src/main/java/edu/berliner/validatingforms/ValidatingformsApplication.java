@@ -1,12 +1,12 @@
-package edu.berliner.testingforms;
+package edu.berliner.validatingforms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TestingformsApplication {
+public class ValidatingformsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestingformsApplication.class, args);
+		SpringApplication.run(ValidatingformsApplication.class, args);
 	}
 }
